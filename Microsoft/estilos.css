@@ -1,0 +1,53 @@
+:root{  
+    --font-5: #fff;
+
+
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.caja-principal{ 
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.caja1{
+
+    display: flex;
+    flex-direction: column;
+    border-color: rgb(134, 137, 137);
+    background-color: #ffffff;
+    padding: 44px;
+}
+
+.caja2{
+    background-color: #ffffff;
+    margin-top: 25px;
+    padding: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: fit-content;
+
+}
+
+.cajabot{
+    display: flex;
+
+}
+
+.inicio{
+    font-weight:bolder;
+    font-size: 23px;
+    color:rgb(35, 34, 34)
+}
+
+.fondo{ 
+
+    background-color: azure;
+}
+
