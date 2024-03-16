@@ -13,30 +13,43 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    
+    margin-top: 150px;
 }
 
 .caja1{
 
     display: flex;
     flex-direction: column;
-    border-color: rgb(134, 137, 137);
     background-color: #ffffff;
     padding: 44px;
+    border-radius: 2px;
+    border: 1px solid #e2e3e4;
 }
 
 .caja2{
     background-color: #ffffff;
     margin-top: 25px;
     padding: 15px;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 70px;
+    padding-right: 70px;
     width: fit-content;
+    border: 1px solid #e2e3e4;
 
+}
+
+input {
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent ;
+    border-bottom: 1% #1a1a1b;
+    width: 300px;
+    font-size: 16px;
 }
 
 .cajabot{
     display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 
