@@ -1,0 +1,20 @@
+:root {
+
+--color: #ffffff;    
+}
+
+.barra-principal{
+
+    background-image: url(imagenes/img\ barra.png);
+    font-size: 10px;
+}
+
+.linea{
+    height: 1px;
+    width: 900px;
+    background-color: #666262;
+    margin-top: 3px;
+    margin-bottom: 20px;
+}
+
+
