@@ -1,0 +1,27 @@
+.fondoPrincipal{
+    background-color: #00A86B;
+}
+
+.cartaColor{
+    background-color: #92b4a8;
+}
+
+.cartaColor:hover{
+    background-color: #73d5b1;
+}
+
+.colorboton{
+    background-color: #e7eded;
+}
+
+.colorboton:hover{
+    background-color: #73d5b1;
+}
+
+.barraColor{
+    background-color: #92b4a8;
+}
+
+.PASAR{
+    color: black;
+}
